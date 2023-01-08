@@ -26,7 +26,7 @@
 * [Noise Security Bit](https://noisebit.podster.fm) (Podcast)
 * [uWebDesign](https://uwebdesign.ru) (Podcast)
 
-
+##todo
 ### Новости и Разработка ПО
 
 * [Две Столицы - Уютный подкаст IT панков](http://www.2capitals.space) (Podcast)
